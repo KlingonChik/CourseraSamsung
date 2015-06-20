@@ -1,0 +1,2 @@
+# CourseraSamsung
+Samsung assignment 
